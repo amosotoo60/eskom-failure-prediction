@@ -1,0 +1,5 @@
+
+# Exclude raw data and temporary checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.xlsx
